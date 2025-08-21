@@ -9,19 +9,19 @@
 ---
 
 ## Objetivo
-Estudante de Ciência da Computação buscando estágio em desenvolvimento de software e aprendizado de máquina. Interesse em aplicar conhecimentos em programação, estruturas de dados e colaborar com projetos de tecnologia.
+Estudante de Ciência da Computação buscando estágio na área de Inteligência Artificial / Machine Learning, aplicando habilidades em programação, análise de dados e modelagem computacional, enquanto amplio minha experiência prática no desenvolvimento de sistemas inteligentes.
 
 ---
 
 ## Educação
-**Bacharelado em Ciência da Computação** – Universidade Federal de Campina Grande - UFCG.
+**Bacharelado em Ciência da Computação** – Universidade Federal de Campina Grande - UFCG (2024 - 2028).
 ---
 
 ## Projetos Relevantes
-- **Comparador de eficiência de linguagens** (Java, C, Python)
+- **Comparador de eficiência de linguagens** (Java, C, Python) (https://github.com/jota-atn/StructComparisons)
   Projeto focado na comparação de eficiência de 3 linguagens de programação implementando diferentes estruturas de dados (ArrayList, LinkedList, HashMap e Tree AVL).
   
-- **Sistema de Triagem Médica** (Haskell)  
+- **Sistema de Triagem Médica** (Haskell) (https://github.com/gabrielfigueiredobm/ProjetoPLP)
   Sistema de cadastro de pacientes, triagem de sintomas e mensagens médicas, com estruturas de dados personalizadas.
 
 - **EyePleasure** (Swift, ARKit, Java)  
