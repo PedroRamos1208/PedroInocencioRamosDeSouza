@@ -1,7 +1,4 @@
-# PedroInocencioRamosDeSouza
-
-# Pedro Inocencio
-
+Pedro Inocêncio Ramos de Souza
 📧 pedro.inocencio.ramos.souza@ccc.ufcg.edu.br  
 🌐 [LinkedIn](https://www.linkedin.com/in/pedro-inocencio-94b119316/)  
 💻 [GitHub](https://github.com/PedroRamos1208)
@@ -9,7 +6,7 @@
 ---
 
 ## Objetivo
-Estudante de Ciência da Computação buscando estágio na área de Inteligência Artificial / Machine Learning, aplicando habilidades em programação, análise de dados e modelagem computacional, enquanto amplio minha experiência prática no desenvolvimento de sistemas inteligentes.
+Estudante de Ciência da Computação em busca de estágio na área de Inteligência Artificial e Machine Learning, aplicando habilidades em programação, análise de dados e modelagem computacional, enquanto amplio minha experiência prática no desenvolvimento de sistemas inteligentes.
 
 ---
 
