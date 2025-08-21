@@ -18,10 +18,10 @@ Estudante de Ciência da Computação buscando estágio na área de Inteligênci
 ---
 
 ## Projetos Relevantes
-- **Comparador de eficiência de linguagens** (Java, C, Python) (https://github.com/jota-atn/StructComparisons)
+- **Comparador de eficiência de linguagens** (Java, C, Python) [🔗 Repositório](https://github.com/jota-atn/StructComparisons)
   Projeto focado na comparação de eficiência de 3 linguagens de programação implementando diferentes estruturas de dados (ArrayList, LinkedList, HashMap e Tree AVL).
   
-- **Sistema de Triagem Médica** (Haskell) (https://github.com/gabrielfigueiredobm/ProjetoPLP)
+- **Sistema de Triagem Médica** (Haskell) [🔗 Repositório](https://github.com/gabrielfigueiredobm/ProjetoPLP)
   Sistema de cadastro de pacientes, triagem de sintomas e mensagens médicas, com estruturas de dados personalizadas.
 
 - **EyePleasure** (Swift, ARKit, Java)  
